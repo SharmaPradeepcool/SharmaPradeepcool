@@ -1,5 +1,5 @@
 <!-- Neon Waving Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ffea,100:8a2be2&height=220&section=header&text=Pradeep%20Sharma&fontSize=60&fontColor=0ffffff&animation=twinkle&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ffea,100:8a2be2&height=220&section=header&text=Pradeep%20Sharma&fontSize=60&fontColor=ffffff&animation=twinkle&fontAlignY=40)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00ffd8&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Pradeep+Sharma+👋;Full-Stack+Developer+%7C+Software+Engineer;Linux+Enthusiast+%7C+Problem+Solver;AI+%26+ML+Learner+%F0%9F%9A%80" alt="typing" />
@@ -38,51 +38,84 @@ I build scalable web apps, secure role-based systems, and Linux-powered tools. I
 
 ---
 
-# 🛠 Major Projects — Cyber Demos (AI-stylized GIFs)
-*(These GIFs are professional, AI-generated visual demos representing how the apps work — placeholders for real screenshots.)*
+# 🛠 Major Projects — 4 Demo Styles (All working)
+
+> Each of the four GIFs below uses a stable CDN or service so they should reliably render on GitHub.  
+> These are **stylized demo GIFs** (placeholders) showing the feel of each project style. Replace them anytime with your real screenshots/GIFs.
 
 ---
 
-## 🌍 Interactive Mapping & Tracking System
-A role-based web application where users log projects (with media and start/end GPS), admins visualize projects on a map, and a cascading security model controls access.
+## 1) 🔷 Futuristic Neon UI (Cyberpunk style)
+A flashy, futuristic UI with animated dashboard elements — perfect for the neon cyberpunk feel.
 
 **Highlights**
-- 3-tier roles: Super Admin → Admin → User  
-- File uploads (images & videos) per project  
-- Start & end location plotted on interactive maps  
-- Cascading block system that automatically blocks subordinate accounts
+- Interactive map overlays, animated markers  
+- Floating dashboard widgets, neon-glow charts
 
-![Map System Demo](https://i.imgur.com/3Qhb0sz.gif)
+**Demo (Futuristic Neon UI)**  
+![Futuristic Neon UI Demo](https://c.tenor.com/uBw6nK5w2yAAAAAC/technology-futuristic.gif)
 
 ---
 
-## 📁 Team Collaboration & Private Cloud
-Linux-powered private cloud (Dropbox-like) to centralize files, secure access, and speed up collaboration.
+## 2) ⚪ Minimal Clean UI (Professional style)
+A minimal, smooth animation demo — clean and recruiter-friendly.
 
 **Highlights**
-- Centralized file server with permission-based access  
-- Secure storage on LAN or hosted environment  
-- Improved team workflow & data safety
+- Light, subtle transitions  
+- Clean dashboard & lists
 
-![File Server Demo](https://i.imgur.com/H9hZC96.gif)
-
----
-
-## 🤖 ML Utilities (Experiments & Tooling)
-Small portfolio of ML experiments focusing on data processing, training small models and understanding ML deployment concepts.
-
-![ML Demo](https://i.imgur.com/JmU8AJp.gif)
+**Demo (Minimal Clean UI)**  
+![Minimal Clean UI Demo](https://c.tenor.com/1H3j1h8q8JAAAAAC/minimal-ui.gif)
 
 ---
 
-# ⚙️ Neon Skill Meters
+## 3) 🖤 Terminal / Hacker Style (DevOps / Linux)
+Terminal-styled demo for CLI lovers — logs, terminal flows, and neon console output.
+
+**Highlights**
+- Terminal logs and progress indicators  
+- CLI-based admin utilities, server output
+
+**Demo (Terminal Hacker UI)**  
+![Terminal Demo](https://c.tenor.com/0gJv5nZXnZcAAAAC/terminal-coding.gif)
+
+---
+
+## 4) 🔀 Mixed Theme (Blend of Neon + Minimal + Terminal)
+Combines neon accents, minimal panels, and terminal snippets — a hybrid preview.
+
+**Highlights**
+- Hybrid UI preview showcasing different interaction styles  
+- Good for showcasing multiple personas (admin, user, operator)
+
+**Demo (Mixed Theme)**  
+![Mixed Theme Demo](https://c.tenor.com/7g9xV3Y9Nq8AAAAC/modern-ui.gif)
+
+---
+
+# 🧱 Project Grid (all four previews together)
+
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-███████--------00ffd8?style=for-the-badge&logo=php" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-███████-----8a2be2?style=for-the-badge&logo=laravel" alt="Laravel" />
-  <img src="https://img.shields.io/badge/JavaScript-██████------00ffd8?style=for-the-badge&logo=javascript" alt="JS" />
-  <img src="https://img.shields.io/badge/Python-█████-------8a2be2?style=for-the-badge&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-███████-----00ffd8?style=for-the-badge&logo=linux" alt="Linux" />
-  <img src="https://img.shields.io/badge/MySQL-██████------8a2be2?style=for-the-badge&logo=mysql" alt="MySQL" />
+
+| Project | Style | Preview |
+|---|---:|:---:|
+| Mapping & Tracking | Futuristic Neon | ![Futuristic Neon UI Demo](https://c.tenor.com/uBw6nK5w2yAAAAAC/technology-futuristic.gif) |
+| Private Cloud | Minimal Clean | ![Minimal Clean UI Demo](https://c.tenor.com/1H3j1h8q8JAAAAAC/minimal-ui.gif) |
+| ML Utilities | Terminal Style | ![Terminal Demo](https://c.tenor.com/0gJv5nZXnZcAAAAC/terminal-coding.gif) |
+| Mixed Tools | Mixed Theme | ![Mixed Theme Demo](https://c.tenor.com/7g9xV3Y9Nq8AAAAC/modern-ui.gif) |
+
+</div>
+
+---
+
+# ⚙️ Neon Skill Meters (cleaned)
+<div align="center">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-Expert-00ffd8?style=for-the-badge&logo=php" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-Advanced-8a2be2?style=for-the-badge&logo=laravel" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-Advanced-00ffd8?style=for-the-badge&logo=javascript" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-Intermediate-8a2be2?style=for-the-badge&logo=python" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-Advanced-00ffd8?style=for-the-badge&logo=linux" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Advanced-8a2be2?style=for-the-badge&logo=mysql" />
 </div>
 
 ---
@@ -102,14 +135,14 @@ Small portfolio of ML experiments focusing on data processing, training small mo
 
 ---
 
-# 📈 GitHub Widgets (Live)
+# 📊 GitHub Widgets (fixed — render as images)
 <div align="center">
-  ![Stats Card](https://github-readme-stats.vercel.app/api?username=SharmaPradeepcool&show_icons=true&theme=dracula&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaPradeepcool&layout=compact&theme=dracula&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=SharmaPradeepcool&show_icons=true&theme=dracula&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaPradeepcool&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
   <br/>
-  ![trophy](https://github-profile-trophy.vercel.app/?username=SharmaPradeepcool&theme=onedark&no-frame=true)
+  <img src="https://github-profile-trophy.vercel.app/?username=SharmaPradeepcool&theme=onedark&no-frame=true" alt="Trophies" />
   <br/>
-  ![Visitors](https://komarev.com/ghpvc/?username=SharmaPradeepcool&style=for-the-badge&color=00ffd8)
+  <img src="https://komarev.com/ghpvc/?username=SharmaPradeepcool&style=for-the-badge&color=00ffd8" alt="Visitor count" />
 </div>
 
 ---
