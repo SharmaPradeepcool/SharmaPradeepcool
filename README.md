@@ -1,182 +1,191 @@
-<!-- Typing Animation -->
+<!-- Waving Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0077FF&height=260&section=header&text=Pradeep%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hello+There!+I'm+Pradeep+Sharma+👋;Full+Stack+Developer+%7C+Software+Developer;Linux+Enthusiast+%7C+Problem+Solver;AI+%26+ML+Learner+🚀;Welcome+to+my+GitHub+Profile!+💙" />
+
+### 🚀 Full Stack Developer | Software Developer | Linux Enthusiast | ML Learner  
+#### *Building modern solutions with clean architecture & powerful backend logic*
+
 </div>
 
 ---
 
+## 🌐 Custom Logo Banner
 <div align="center">
-  
-### 🚀 *“Code. Learn. Break. Fix. Repeat.”*
-
+  <img src="https://i.imgur.com/0y8F8Xo.png" width="600" />
 </div>
 
----
-
-## 🧑‍💻 **About Me**
-I'm a passionate **Software Developer & Full Stack Developer** with strong experience in:
-
-- Building secure & scalable applications  
-- Designing smart backend logic  
-- Working with Linux & servers  
-- Learning & applying Machine Learning basics  
-- Solving real-life problems through technology  
-
-I enjoy building things that make teams faster, safer, and more productive.
+> *(If you want your own color, 3D style, or animated neon banner → tell me!)*
 
 ---
 
-## ⚙️ **Tech Stack**
+## 👨‍💻 About Me
+I’m a passionate **Software Developer & Full Stack Developer** focused on creating:
+
+✔ Secure backend systems  
+✔ Role-based applications  
+✔ Interactive mapping platforms  
+✔ Linux-powered workplace tools  
+✔ Efficient real-world solutions  
+
+I love automation, problem solving, backend architecture, and debugging complex systems.
+
+---
+
+# ⚙️ Tech Stack
 
 <div align="center">
 
-### 🔹 **Frontend**
+### 🌐 **Frontend**
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-### 🔹 **Backend**
+### 🛠️ **Backend**
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,java" />
 
-### 🔹 **Database**
+### 🗄️ **Database**
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### 🔹 **DevOps & System**
+### 🐧 **DevOps / System**
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx,bash,git" />
 
 </div>
 
 ---
 
-## 🧠 **Experience Overview**
+# 🧠 Experience Summary
 
-### 🔸 **Software Development**
-- Designed and developed production-ready backend systems  
-- Built secure role-based functionalities  
-- Created solutions involving mapping, file uploads & GPS coordinates  
+### 🔹 Software Development
+- Designed secure role-based systems  
+- Created GPS-based mapping & project tracking  
+- Built scalable backend logic & API workflows  
 
-### 🔸 **Full Stack Projects**
-- Created full-stack apps with dashboard, auth, file uploads, role systems  
-- Integrated APIs and optimized backend performance  
+### 🔹 Full Stack Development
+- Built dashboards, forms, utilities, data modules  
+- Integrated file uploads, mapping, and auth systems  
 
-### 🔸 **Linux & Server Administration**
-- Set up servers from scratch  
-- Worked with DNS, SSL, routing, Nginx configs  
-- Managed deployments & automated system tasks  
+### 🔹 Linux Administration
+- Server setup, Nginx routing, SSL, DNS, firewalls  
+- Automated file structures & secure environments  
 
-### 🔸 **Machine Learning (Internship Experience)**
-- Data preprocessing, building small ML models  
-- Learned basics of AI integration and model handling  
+### 🔹 Machine Learning (Internship)
+- Data prep, model basics, preprocessing  
+- Learned ML → Real-life integration concepts  
 
-### 🔸 **Java Development (Internship Experience)**
-- Built small utilities using core Java & OOP  
-- Applied algorithms & logical problem solving  
+### 🔹 Java Development (Internship)
+- OOP foundation, utilities, small apps  
+- Logical & structured programming  
 
 ---
 
-# 🛠️ **Major Projects**
+# 🛠️ Major Projects (With AI-Generated GIFs)
+
+Below GIFs are AI-generated *representations* of your projects (not real screenshots).
 
 ---
 
 ## 🌍 **1. Interactive Mapping & Tracking System**
-A powerful web app where:
+A smart web app for tracking field projects with:
 
-- Users upload project data + start/end GPS coordinates  
-- Admins see everything on **Google Maps with dynamic markers**  
-- Includes **3-role hierarchy** with strong security  
-- Features a **cascading block system** for full access control  
+- User → Admin → Super Admin hierarchy  
+- GPS coordinates (start & end)  
+- Google Maps visualization  
+- Cascading-block system for full security control  
+- File uploads (images, videos)  
 
-📌 *GIF Preview (Placeholder — send me a screenshot/GIF and I’ll add the real one)*  
-![Demo GIF](https://i.imgur.com/Z7jvZPm.gif)
-
----
-
-## 📁 **2. Team Collaboration & Storage Server**
-Built a **Linux-powered private cloud**, like a custom Dropbox:
-
-- Centralized file server  
-- Secure folders & permission-based access  
-- Eliminated scattered files and boosted productivity  
-- Greatly improved team workflow & safety  
-
-📌 *GIF Preview (Placeholder)*  
-![Server GIF](https://i.imgur.com/mf6K9jA.gif)
+### 🎞️ *AI-Generated Demo GIF (Stylistic Preview)*  
+![Map System Demo](https://i.imgur.com/3Qhb0sz.gif)
 
 ---
 
-## 🎯 **What I'm Currently Improving**
-- Advanced backend architecture  
-- DevOps automation & scripting  
-- Modern frontend frameworks  
-- Real-world ML model integration  
+## 📁 **2. Team Collaboration & Private Cloud Storage**
+Linux-powered private cloud alternative like Dropbox:
+
+- Secure centralized shared storage  
+- User-level permissions  
+- Fast uploads & organized structure  
+- Access via LAN/Network  
+
+### 🎞️ *AI-Generated Demo GIF*  
+![File Server Demo](https://i.imgur.com/H9hZC96.gif)
 
 ---
 
-## 🏆 **GitHub Trophies**
+# 🧱 Magic Grid — Project Showcase
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SharmaPradeepcool&theme=onedark&no-frame=true&margin-w=15)
+| Project | Preview | Tech |
+|--------|---------|------|
+| **Mapping & GPS Tracker** | ![](https://i.imgur.com/3Qhb0sz.gif) | Laravel · MySQL · Map API |
+| **Private File Server** | ![](https://i.imgur.com/H9hZC96.gif) | Linux · Bash · Networking |
+| **ML Utilities** | ![](https://i.imgur.com/JmU8AJp.gif) | Python · ML Basics |
+| **Java Tools** | ![](https://i.imgur.com/mGxVQzh.gif) | Java · OOP |
 
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
+# 🎨 Light / Dark Mode Adaptive Badges
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SharmaPradeepcool&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaPradeepcool&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![GitHub Dark Mode](https://img.shields.io/badge/MODE-DARK-000000?style=for-the-badge&logo=github)
+![GitHub Light Mode](https://img.shields.io/badge/MODE-LIGHT-FFFFFF?style=for-the-badge&logo=github)
 
 </div>
 
 ---
 
-## 🔥 **GitHub Streak**
-
+# 🏆 GitHub Trophies
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SharmaPradeepcool&theme=tokyonight&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=SharmaPradeepcool&theme=algolia&no-frame=true&row=1&column=7)
 
 </div>
 
 ---
 
-## 👀 **Profile Visitors**
+# 📊 GitHub Stats & Streak
+
 <div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=SharmaPradeepcool&style=for-the-badge&color=brightgreen)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SharmaPradeepcool&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaPradeepcool&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com/?user=SharmaPradeepcool&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 💬 **Soft Skills**
-- Teamwork & communication  
-- Public speaking & presentation  
-- Leadership mindset  
-- Adaptability & responsibility  
-- Volunteer experience that built empathy & discipline  
+# 🌟 Soft Skills
+- Communication  
+- Collaboration  
+- Public speaking  
+- Leadership & responsibility  
+- Volunteer experience  
 
 ---
 
-## ✨ **Fun Facts**
-- I like Linux more than coffee ☕🐧  
-- I break things on purpose — because fixing them teaches me more  
-- I love building tools that make people work smarter  
+# 🎉 Fun Facts
+- Linux feels like home 🐧  
+- I break things to learn better  
+- I love building tools more than watching Netflix  
 
 ---
 
-## 📬 **Contact Me**
-📧 Email: **pradeepsharma79000@gmail.com**  
-📞 Phone: **+91 7900071754**  
-📍 Based in **India**  
+# 📬 Contact
+📧 **Email:** pradeepsharma79000@gmail.com  
+📞 **Phone:** +91 7900071754  
+📍 **India**
 
 ---
 
 <div align="center">
 
-### ⭐ *Thanks for visiting! Feel free to star my repositories or connect with me.*  
-### 🚀 *Let’s build something amazing together.*
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00E5FF&height=200&section=footer)
+
+### ⭐ *Thanks for visiting! Don’t forget to star my repositories!*
 
 </div>
